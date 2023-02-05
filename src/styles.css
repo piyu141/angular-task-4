@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+.pie > div >canvas{
+    width: 300px !important;
+    height: 300px !important;
+}
